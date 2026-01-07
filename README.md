@@ -32,5 +32,3 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix Movies and 
 - Bar charts for top 5 directors and top 5 casts
 - Sentiment trends over years
 - Interactive Plotly charts for better insights
-
-## Project Structure
